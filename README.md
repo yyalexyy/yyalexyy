@@ -1,4 +1,4 @@
-![Header](https://github.com/yyalexyy/yyalexyy/blob/master/as\ssets/banner.gif)
+![Header](https://github.com/yyalexyy/yyalexyy/blob/master/assets/banner.gif)
 
 ### Hi there 👋
 
