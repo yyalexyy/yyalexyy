@@ -1,4 +1,6 @@
-![Header](https://github.com/yyalexyy/yyalexyy/blob/main/assets/banner.gif)
+<!-- ![Header](https://github.com/yyalexyy/yyalexyy/blob/main/assets/banner.gif) -->
+
+<img src="https://github.com/yyalexyy/yyalexyy/blob/main/assets/banner.gif" height="500">
 
 ### Hi there 👋
 
