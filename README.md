@@ -1,8 +1,14 @@
-<!-- ![Header](https://github.com/yyalexyy/yyalexyy/blob/main/assets/banner.gif) -->
+<img src="assets/banner.gif" height="300" width="1000">
 
-<img src="https://github.com/yyalexyy/yyalexyy/blob/main/assets/banner.gif" height="500">
+## Hi, I'm "Alex Juan" 👋 
 
-### Hi there 👋
+I am a Computer Science student pursuing B.S. at the University of Maryland, College Park. I'm a passionate learner who's always willing to learn and work across technologies and domains.
+
+<br>
+
+- ⚡ Interested in Artificial Intelligence and Software Development
+- 🌱 Currently learning Python, Computer Vision, and Algorithms
+- 👯 Looking to collaborate on any projects, just drop a DM.
 
 <!--
 **yyalexyy/yyalexyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
