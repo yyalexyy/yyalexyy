@@ -1,7 +1,6 @@
 <img src="assets/banner.gif" height="300" width="1000">
 
 ## Hi, I'm "Alex Juan" 👋 
-[![Linkedin Badge](https://img.shields.io/badge/-alexyyjuan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alexyyjuan/)](https://www.linkedin.com/in/alexyyjuan/)
 [![Gmail Badge](https://img.shields.io/badge/-alex3juan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alex3juan@gmail.com)](mailto:alex3juan@gmail.com)
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
